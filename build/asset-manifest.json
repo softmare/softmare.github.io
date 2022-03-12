@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.43c5f932.css",
+    "main.css": "/static/css/main.d8e23aab.css",
     "main.js": "/static/js/main.b7be3c07.js",
     "static/media/water_melon.png": "/static/media/water_melon.284a6804426d8cdaff28.png",
     "index.html": "/index.html",
-    "main.43c5f932.css.map": "/static/css/main.43c5f932.css.map",
+    "main.d8e23aab.css.map": "/static/css/main.d8e23aab.css.map",
     "main.b7be3c07.js.map": "/static/js/main.b7be3c07.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c5f932.css",
+    "static/css/main.d8e23aab.css",
     "static/js/main.b7be3c07.js"
   ]
 }
